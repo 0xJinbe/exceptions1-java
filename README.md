@@ -1,3 +1,3 @@
 # exceptions1-java
 
-Series of commits with java exceptions treatment.
+Different solutions using with and without java exceptions treatment.
